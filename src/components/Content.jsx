@@ -1,10 +1,11 @@
 import React from "react";
+import s from "./Content.module.css";
 
 const Profile = () => {
     return (
-        <div className='content'>
-            <div>
-                <img src="https://images.unsplash.com/photo-1500622944204-b135684e99fd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="image-content"/>
+        <div className={s.content}>
+            <div className={s.photoPuppies}>
+                <img src="https://wallpaperaccess.com/full/1101026.jpg" alt="image-puppies"/>
             </div>
             <div>
                 ava + discription
@@ -14,11 +15,11 @@ const Profile = () => {
                 <div>
                     New post
                 </div>
-                <div>
-                    <div>
+                <div className={s.posts}>
+                    <div className={s.item}>
                         Post1
                     </div>
-                    <div>
+                    <div className={s.item}>
                         Post2
                     </div>
                 </div>
