@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8837e751-3966-412c-adbc-283aa47d5f94" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Posts/Post/Post.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Posts/Post/Post.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Posts/Posts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Content/Posts/Posts.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Content.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Content.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/Content.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Nav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/Nav.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/Nav.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content/Posts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/Posts/Post/Post.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Content/Posts/Posts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Content/Posts/Posts.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +67,8 @@
       <workItem from="1585471863522" duration="615000" />
       <workItem from="1585506186794" duration="649000" />
       <workItem from="1585590480272" duration="10298000" />
-      <workItem from="1585680333096" duration="2693000" />
+      <workItem from="1585680333096" duration="2864000" />
+      <workItem from="1585759008603" duration="2483000" />
     </task>
     <servers />
   </component>
