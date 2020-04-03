@@ -7,7 +7,6 @@ const Posts = () => {
         <div>
             <Post message='Hi, how old are you?' countLike='40'/>
             <Post message='Its my first post' countLike='20' />
-
         </div>
 
     );

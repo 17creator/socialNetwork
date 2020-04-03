@@ -2,16 +2,19 @@
     grid-area: n;
     background-color: #EDEEF0;
     text-align: center;
+
 }
 
-.nav div {
-    padding-top: 1.3em;
+.item  {
+    padding: 1.3em;
 }
 
-.nav a {
+.item a {
+
+    color: blue;
     text-decoration: none;
 }
 
-.item {
-    color: blue;
+.item a.actived {
+    color: red;
 }
